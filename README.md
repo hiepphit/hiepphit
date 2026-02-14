@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hiepphit
 - 👀 I’m interested in GIRL<TECHNOLOGY<PROGRAMING<TRAVEL
 - 🌱 I’m currently learning Marchine Learning
-- 💞️ Co-Founder 397 Solution JSC
+- 💞️ Co-Founder @AquaFox JSC
 - 📫 How to reach me https://hiephoang.net
 
 <!---
