@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hiepphit
-- 👀 I’m interested in GIRL<TECHNOLOGY<PROGRAMING<TRAVEL
-- 🌱 I’m currently learning Marchine Learning
-- 💞️ Co-Founder @AquaFox JSC
+- 👀 I’m interested in TECHNOLOGY & PROGRAMING & TRAVEL
+- 🌱 I’m currently learning how to use Multi-Agentic AI
 - 📫 How to reach me https://hiephoang.net
 
 <!---
