@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hiepphit
 - 👀 I’m interested in TECHNOLOGY & PROGRAMING & TRAVEL
 - 🌱 I’m currently learning how to use Multi-Agentic AI
-- 📫 How to reach me https://hiephoang.net
+- 📫 How to reach me hiepph.coder@gmail.com
 
 <!---
 hiepphit/hiepphit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
